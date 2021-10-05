@@ -6,3 +6,6 @@ The objective of this project is to automatically segment any medical image cont
 Dataset from https://www.kaggle.com/c/data-science-bowl-2018/data
 
 Zhouxiang Guo
+
+### View Jupyter Notebook in HTML with the following link:
+[Cell_nuclei_segmentation.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SoyZou/Cell_nuclei_segmentation/main/Cell_nuclei_segmentation.html)
